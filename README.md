@@ -68,5 +68,5 @@ ruby -v
 alias ls="colorls --sd -A"
 
 apt install powerline
-vim .tmux.conf
-  source ssource /usr/share/powerline/bindings/tmux/powerline.conf
+vim .tmux.conf   
+  source /usr/share/powerline/bindings/tmux/powerline.conf
