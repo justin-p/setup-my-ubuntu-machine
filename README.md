@@ -66,3 +66,7 @@ rbenv global 2.3.1
 ruby -v
 ```
 alias ls="colorls --sd -A"
+
+apt install powerline
+vim .tmux.conf
+  source ssource /usr/share/powerline/bindings/tmux/powerline.conf
